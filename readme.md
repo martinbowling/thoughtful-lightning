@@ -1,6 +1,4 @@
-Here's a comprehensive README.md for your project:
 
-```markdown
 # ⚡ Thoughtful Lightning - Dual-Engine AI Assistant
 
 A sophisticated AI assistant combining DeepSeek's reasoning capabilities with Groq's ultra-fast inference, packaged in an intuitive Gradio interface.
@@ -151,14 +149,3 @@ uv venv && uv pip install --reinstall -r requirements.txt
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) for details
-
-
-This README provides:
-1. Comprehensive feature breakdown
-2. Clear installation/configuration instructions
-3. Detailed technical specifications
-4. Troubleshooting guide
-5. Security best practices
-6. Performance optimization tips
-
-Would you like me to add any specific sections or modify existing content?
